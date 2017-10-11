@@ -1,0 +1,5 @@
+{
+    "require": {
+        "acacha/hello-ng": "^0.1.0"
+    }
+}
